@@ -10,6 +10,7 @@
     "no-undef": 0,
     "no-console": 0,
     "require-jsdoc": 0,
-    "no-unused-vars": 0
+    "no-unused-vars": 0,
+    "max-len": 0
   }
 }
