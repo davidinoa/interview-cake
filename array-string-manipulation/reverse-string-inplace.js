@@ -13,7 +13,3 @@ function reverse(chars) {
 
   return chars;
 }
-
-let myChars = 'inoa'.split('');
-const test = reverse(myChars);
-console.log(test);
